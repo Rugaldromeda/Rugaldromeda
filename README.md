@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá eu sou o Gabriel Lima, desenvolvedor front-end e estudante de ciência da computação!
+## Olá eu sou o Gabriel Lima, desenvolvedor e estudante de ciência da computação!
 
 🌱 atualmente aprendendo Python
 <div align="center">
