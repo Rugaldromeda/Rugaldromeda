@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Olá eu sou o Gabriel Lima, desenvolvedor e estudante de ciência da computação!
 
-🌱 atualmente aprendendo Python
 <div align="center">
   <a href="https://github.com/Rugaldromeda">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rugaldromeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
